@@ -6,6 +6,7 @@ Proceso PRUEBA_GIT
 		Escribir  "Introduce una cadena";
 		Leer vari;
 		Escribir "la cadena introducida es: ",vari;
+		escribir "cambio para subir";
 		
 		
 		
